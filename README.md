@@ -7,4 +7,4 @@ This application is an easy to user calculator created using front end languages
 The application can be accessed using this link: https://charanvir.github.io/Calculator/
 
 Below is a screenshot of the deployed application:
-- <img src="assets//images1.jpeg">
+- <img src="assets/images/1.jpeg">
